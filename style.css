@@ -147,6 +147,8 @@ nav a:hover, nav a.active {
     color: #0d4b75;
     margin: 15px 0 10px;
     text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
 }
 
 .card p {
