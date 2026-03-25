@@ -145,10 +145,18 @@ nav a:hover, nav a.active {
 
 .card h3 {
     color: #0d4b75;
-    margin: 15px 0 10px;
+    margin: 15px 0 20px;
     text-align: center;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 10px;
+    position: relative;
+}
+
+.card h3::after {
+    content: "";
+    display: block;
+    width: 80%;
+    height: 1px;
+    background: #ddd;
+    margin: 10px auto 0;
 }
 
 .card p {
