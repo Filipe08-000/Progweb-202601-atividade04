@@ -146,12 +146,13 @@ nav a:hover, nav a.active {
 .card h3 {
     color: #0d4b75;
     margin: 15px 0 10px;
+    text-align: center;
 }
 
 .card p::before {
     content: "";
     display: block;
-    width: 80%;
+    width: 90%;
     height: 1px;
     background-color: #ddd;
     margin: 10px auto 15px;
