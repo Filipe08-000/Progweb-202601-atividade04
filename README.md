@@ -8,7 +8,7 @@ Projeto desenvolvido para a disciplina de **Programação Web (2026/01)**. Este 
 
 ## Sobre o Projeto
 
-O objetivo desta atividade foi replicar um layout de alta fidelidade utilizando tecnologias web fundamentais, mantendo a identidade visual e a organização do código, seguindo uma única imagem de referência e para refazê-la idêntica. 
+O objetivo desta atividade foi replicar um layout de alta fidelidade utilizando tecnologias web fundamentais, mantendo a identidade visual e a organização do código, seguindo uma única imagem de referência e para refazê-la idêntica, não pode ser usado frameworks (Ex. React) 
 
 ### Funcionalidades:
 * **Página Inicial:** Banner principal, seção de destinos populares, seção "Sobre Nós" e formulário de contato com mapa.
