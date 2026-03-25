@@ -33,7 +33,7 @@ O layout conta com:
 4.  **Footer:** Informações de copyright e direitos.
 
 ## Imagem usada para realização da atividade
-foi preciso recriar ela exatamente igual, e ainda adicionar uma página no mesmo estilo para ver mais destinos.
+Foi preciso recriar está imagem exatamente igual só que como site, e ainda adicionar uma página no mesmo estilo para ver mais destinos sem referência apenas seguindo o layout da primeira.
 
 ![Imagem de referência para ser recriada.](image.png)
 ---
