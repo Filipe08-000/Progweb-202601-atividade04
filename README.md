@@ -1,6 +1,6 @@
 # Progweb-202601-atividade04
 
-https://filipe08-000.github.io/Progweb-202601-atividade04/
+##Link para acessar resultado final no Pages: https://filipe08-000.github.io/Progweb-202601-atividade04/
 
 # ExploreMundo - Agência de Viagens
 
@@ -32,7 +32,8 @@ O layout conta com:
 3.  **Formulário:** Área de captura de leads e contatos.
 4.  **Footer:** Informações de copyright e direitos.
 
-## Imagem usada para realização da atividade, foi preciso recriar ela exatamente igual, e ainda adicionar uma página no mesmo estilo para ver mais destinos.
+## Imagem usada para realização da atividade
+foi preciso recriar ela exatamente igual, e ainda adicionar uma página no mesmo estilo para ver mais destinos.
 
 ![Imagem de referência para ser recriada.](image.png)
 ---
